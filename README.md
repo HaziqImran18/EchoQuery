@@ -48,7 +48,7 @@ Here's what happens behind the scenes when you upload a file or paste a YouTube 
 | UI Framework   | Streamlit               |
 | Transcription  | Whisper (OpenAI)        |
 | LLM Backend    | Mixtral via Groq API    |
-| Vector DB      | FAISS (LangChain)       |
+| Vector DB      | Pinecone (LangChain)    |
 | YouTube Support| pytube                  |
 | Video Audio    | MoviePy                 |
 | Audio Chunks   | PyDub                   |
